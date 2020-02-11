@@ -3,7 +3,7 @@
 
 目前只提供骑兵。
 
-<img width="600" alt="screenshot" src="/art/screenshot.jpg">
+<img width="480" alt="screenshot" src="/art/screenshot.jpg">
 
 ## Change Log
 ### 1.0
