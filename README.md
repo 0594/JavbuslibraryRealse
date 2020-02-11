@@ -3,6 +3,8 @@
 
 目前只提供骑兵。
 
+![](/art/screenshot.jpg)
+
 ## Change Log
 ### 1.0
 - 搜索识别码、演员等
