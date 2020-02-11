@@ -3,7 +3,7 @@
 
 目前只提供骑兵。
 
-![](/art/screenshot.jpg)
+![](/art/screenshot.jpg =600x)
 
 ## Change Log
 ### 1.0
